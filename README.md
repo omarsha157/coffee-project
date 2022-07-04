@@ -1,2 +1,2 @@
 # coffee-project
- a static non-responsive website about coffee
+ a non-responsive webpage about coffee made with HTML CSS
